@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Niah
-- 👀 I’m interested in Code and art
-- 🌱 I’m currently learning HTML CSS and JS
-- 💞️ I’m looking to collaborate on Who knows yet
-- 📫 How to reach me noah_leblanc@insideranken.org
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I had a raccoon as a pet once. 
+Hi, I’m Niah
 
-<!---
-NoahLeBlanc/NoahLeBlanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Aspiring Full-Stack Developer | Focused on building scalable and maintainable applications]
+
+[Front-end] React | Tailwind | JavaScript
+[Back-end] C# | .NET MVC | REST APIs | SQL Server | MongoDB
+[AI / Tools] Anthropic Claude API | Git | GitHub
+
+[Focus] Developing professional web applications with modern technologies and AI integration
+
+[Contact] noah_leblanc@insideranken.org
+
+[Pronouns] She/Her
