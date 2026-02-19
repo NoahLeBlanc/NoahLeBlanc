@@ -1,12 +1,14 @@
 Hi, I’m Niah
 
-[Aspiring Full-Stack Developer | Focused on building scalable and maintainable applications]
+[Aspiring Full-Stack Developer | Building scalable, maintainable, and user-focused applications]
 
-[Front-end] React | Tailwind | JavaScript
-[Back-end] C# | .NET MVC | REST APIs | SQL Server | MongoDB
-[AI / Tools] Anthropic Claude API | Git | GitHub
+[Tech Stack] React | Tailwind | JavaScript | C# | .NET MVC | SQL Server | MongoDB | Anthropic Claude API | Git | GitHub
 
-[Focus] Developing professional web applications with modern technologies and AI integration
+[Projects]
+
+FastGuide.ai: AI-powered platform converting long YouTube lectures into structured study guides. Extracts key concepts, explains technical content, and links authoritative resources. (React, .NET MVC, Claude API)
+
+Byte-Board: Anonymous discussion platform for sharing files, code snippets, and ideas. Features boards, threads, posts, tags, files, authentication, mobile responsiveness, full CRUD, and hosted on Azure. (C#, .NET MVC, SQL Server, Tailwind)
 
 [Contact] noah_leblanc@insideranken.org
 
